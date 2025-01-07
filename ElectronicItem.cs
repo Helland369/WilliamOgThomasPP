@@ -1,6 +1,6 @@
 namespace WilliamOgThomaPP;
 
-public class ElectronicItem : InventoryItem,  ISellable
+public class ElectronicItem : InventoryItem, ISellable
 {
     private int _watt, _volt, _amperage;
     private string _warrenty;
