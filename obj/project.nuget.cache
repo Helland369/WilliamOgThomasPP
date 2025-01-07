@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPdybI/jbBI=",
+  "dgSpecHash": "Y0qkvQ1864A=",
   "success": true,
-  "projectFilePath": "/home/th/code/csharp/WilliamOgThomaPP/WilliamOgThomaPP.csproj",
+  "projectFilePath": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
   "expectedPackageFiles": [
     "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],

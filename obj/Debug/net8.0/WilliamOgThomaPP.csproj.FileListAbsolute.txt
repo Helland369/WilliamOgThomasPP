@@ -1,0 +1,15 @@
+/home/th/github/WilliamOgThomasPP/bin/Debug/net8.0/WilliamOgThomaPP
+/home/th/github/WilliamOgThomasPP/bin/Debug/net8.0/WilliamOgThomaPP.deps.json
+/home/th/github/WilliamOgThomasPP/bin/Debug/net8.0/WilliamOgThomaPP.runtimeconfig.json
+/home/th/github/WilliamOgThomasPP/bin/Debug/net8.0/WilliamOgThomaPP.dll
+/home/th/github/WilliamOgThomasPP/bin/Debug/net8.0/WilliamOgThomaPP.pdb
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.AssemblyInfoInputs.cache
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.AssemblyInfo.cs
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.csproj.CoreCompileInputs.cache
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.sourcelink.json
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.dll
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/refint/WilliamOgThomaPP.dll
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.pdb
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/WilliamOgThomaPP.genruntimeconfig.cache
+/home/th/github/WilliamOgThomasPP/obj/Debug/net8.0/ref/WilliamOgThomaPP.dll

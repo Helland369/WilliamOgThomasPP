@@ -12,4 +12,8 @@ public class InventoryItem
         _quantity = quantity;
         _price = price;
     }
+    
+    public string Name { get { return _name; } }
+    public int Quantity { get { return _quantity; } }
+    public double Price { get { return _price; } }
 }

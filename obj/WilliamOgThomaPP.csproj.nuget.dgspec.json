@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/th/code/csharp/WilliamOgThomaPP/WilliamOgThomaPP.csproj": {}
+    "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj": {}
   },
   "projects": {
-    "/home/th/code/csharp/WilliamOgThomaPP/WilliamOgThomaPP.csproj": {
+    "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/th/code/csharp/WilliamOgThomaPP/WilliamOgThomaPP.csproj",
+        "projectUniqueName": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
         "projectName": "WilliamOgThomaPP",
-        "projectPath": "/home/th/code/csharp/WilliamOgThomaPP/WilliamOgThomaPP.csproj",
+        "projectPath": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
         "packagesPath": "/home/th/.nuget/packages/",
-        "outputPath": "/home/th/code/csharp/WilliamOgThomaPP/obj/",
+        "outputPath": "/home/th/github/WilliamOgThomasPP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/th/.nuget/NuGet/NuGet.Config"
