@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/th/.nuget/packages/": {}
+    "C:\\Users\\willi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
+      "projectUniqueName": "C:\\GET2025\\PP6\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
       "projectName": "WilliamOgThomaPP",
-      "projectPath": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
-      "packagesPath": "/home/th/.nuget/packages/",
-      "outputPath": "/home/th/github/WilliamOgThomasPP/obj/",
+      "projectPath": "C:\\GET2025\\PP6\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
+      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+      "outputPath": "C:\\GET2025\\PP6\\WilliamOgThomasPP\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/th/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -54,18 +67,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.11, 8.0.11]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
