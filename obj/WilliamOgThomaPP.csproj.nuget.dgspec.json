@@ -1,27 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 98b52c4 (.)
-=======
->>>>>>> 98b52c4 (.)
-    "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj": {}
-  },
-  "projects": {
-    "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
-        "projectName": "WilliamOgThomaPP",
-        "projectPath": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
-        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\obj\\",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
     "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj": {}
   },
   "projects": {
@@ -33,11 +12,6 @@
         "projectPath": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
         "packagesPath": "/home/th/.nuget/packages/",
         "outputPath": "/home/th/github/WilliamOgThomasPP/obj/",
->>>>>>> 4e48018 (hei)
-=======
->>>>>>> 98b52c4 (.)
-=======
->>>>>>> 98b52c4 (.)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/th/.nuget/NuGet/NuGet.Config"

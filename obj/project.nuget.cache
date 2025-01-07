@@ -1,23 +1,10 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 98b52c4 (.)
-=======
->>>>>>> 98b52c4 (.)
-  "dgSpecHash": "BuvV0geEkIc=",
-  "success": true,
-  "projectFilePath": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
-  "expectedPackageFiles": [],
-=======
   "dgSpecHash": "Y0qkvQ1864A=",
   "success": true,
   "projectFilePath": "/home/th/github/WilliamOgThomasPP/WilliamOgThomaPP.csproj",
   "expectedPackageFiles": [
     "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],
->>>>>>> 4e48018 (hei)
   "logs": []
 }
