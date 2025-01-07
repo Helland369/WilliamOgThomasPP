@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GET2025\\PP6\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj": {}
+    "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj": {}
   },
   "projects": {
-    "C:\\GET2025\\PP6\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj": {
+    "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GET2025\\PP6\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
+        "projectUniqueName": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
         "projectName": "WilliamOgThomaPP",
-        "projectPath": "C:\\GET2025\\PP6\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
+        "projectPath": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\WilliamOgThomaPP.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\GET2025\\PP6\\WilliamOgThomasPP\\obj\\",
+        "outputPath": "C:\\GET2025\\PP6\\Helland369\\WilliamOgThomasPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
