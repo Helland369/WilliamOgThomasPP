@@ -1,5 +1,4 @@
 ﻿
-
 using WilliamOgThomaPP;
 
 class Program
