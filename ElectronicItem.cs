@@ -18,6 +18,7 @@ public class ElectronicItem : InventoryItem, ISellable
     public int Volt { get { return _volt; } }
     public int Amperage { get { return _amperage; } }
     public string Warrenty { get { return _warrenty; } }
+    public int Quantity { get { return _watt; } }
     
     public double CalculatePrice(int percentage)
     {
