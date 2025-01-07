@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WilliamOgThomaPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b52c4d16bc725649b3586c29e6903959d35dba")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+215d05ce6ffbacd6428aadeda3c22d35bbfa4123")]
+>>>>>>> 98b52c4 (.)
 [assembly: System.Reflection.AssemblyProductAttribute("WilliamOgThomaPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WilliamOgThomaPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

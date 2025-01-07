@@ -5,11 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        ElectronicItem e = new ElectronicItem("Electronic", 5, 123.23, 200,300,400,"asd");
-        ClothingItem c = new ClothingItem("asd", 3,123.1, "green", "XXXXXL");
-        
-        Console.WriteLine(e.Amperage + " " + e.CalculatePrice(50));
-        Console.WriteLine(c.Size + " " + c.CalculatePrice(30));
+        MainMenu mainMenu = new MainMenu();
+        mainMenu.Menu();
     }
 }
 
