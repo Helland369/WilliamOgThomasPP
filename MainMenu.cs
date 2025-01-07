@@ -17,9 +17,9 @@ public class MainMenu
         foreach(var item in inventory)
         {
             if( item is ElectronicItem e)
-                Console.WriteLine($"Name: {e.Name} Quatity: {e.Quatity} Price: {e.Price} Watt: {e.Watt} Volt: {e.Volt} Amperage: {e.Amperage} Warrenty: {e.Warrenty}");
+                Console.WriteLine($"Name: {e.Name} Quatity: {e.Quantity} Price: {e.Price} Watt: {e.Watt} Volt: {e.Volt} Amperage: {e.Amperage} Warrenty: {e.Warrenty}");
             if (item is ClothingItem c)
-                Console.WriteLine($"Name: {c.Name} Quatity: {c.Quatity} Price: {c.Price} Color: {c.Color} Size: {c.Size}");
+                Console.WriteLine($"Name: {c.Name} Quatity: {c.Quantity} Price: {c.Price} Color: {c.Colour} Size: {c.Size}");
         }
     }
 }
